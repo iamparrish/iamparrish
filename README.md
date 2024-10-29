@@ -28,8 +28,9 @@
 ---
 
 ### 🌱 Currently Learning
-- Advanced JavaScript frameworks (React, Vue)
-- Basics of backend development to improve my full-stack capabilities
+- Fundamental coding concepts and enhancing overall skills  
+- Exploring designing skill for better creativity experiences  
+- Diving into game development and interactive media
 
 ---
 
