@@ -21,11 +21,10 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
 
-### 🎨 Editing
-- **Design & Editing Tools:**  
-  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)  
-  ![Clipchamp](https://img.shields.io/badge/Clipchamp-512DA8?style=flat-square&logo=clipchamp&logoColor=white)  
-  ![Adobe Express](https://img.shields.io/badge/Adobe%20Express-FF0000?style=flat-square&logo=adobe&logoColor=white)
+**Design & Editing Tools:**  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)  
+![Clipchamp](https://img.shields.io/badge/Clipchamp-512DA8?style=flat-square&logo=clipchamp&logoColor=white)  
+![Adobe Express](https://img.shields.io/badge/Adobe%20Express-FF0000?style=flat-square&logo=adobe&logoColor=white)
 
 ---
 
