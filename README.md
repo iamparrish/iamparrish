@@ -12,11 +12,11 @@ Welcome to my GitHub! I'm an 11th-grade student and the President of the Coders 
 - **Personal Projects:** Developing interactive websites, apps, and small games.
 
 ### 🌱 Currently Learning:
-Exploring advanced JavaScript frameworks and diving into backend development to enhance my web dev skills!
+Exploring advanced Coding skills and diving into the development arena to enhance my development skills!
 
 ### 🤝 Connect with Me:
-- [LinkedIn](#)  
-- [Instagram](#)  
+- [LinkedIn](www.linkedin.com/in/parrish-tarak-6793b6312)  
+- [Instagram](https://www.instagram.com/iamparrish_7/)  
 - [Email](coder.parrish@gmail.com)
 
 Let's collaborate, innovate, and inspire!
