@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Parrish Tarak
 
-> 12th-grade tech enthusiast, web developer, and President of the Coders Club at Krishna Public School, Raipur.
+> 12th-grade tech enthusiast, web developer, and Ex-President of the Coders Club at Krishna Public School, Raipur.
 
 ---
 
