@@ -2,92 +2,101 @@
 
 # ✨ Parrish Tarak
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=Full+Stack+Developer;Tech+Community+Leader;Building+Creative+Digital+Experiences;Passionate+About+Technology+%26+Innovation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;Tech+Community+Leader;Building+Modern+Web+Experiences;React+%2B+Next.js+Developer" />
 
 <p align="center">
   <a href="https://parrishtarak.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-
   <a href="https://github.com/iamparrish">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/parrish-tarak-6793b6312/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/ParrishTarak">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/iamparrish_7/">
+    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=iamparrish&label=Profile+Views&color=58A6FF&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=iamparrish&label=PROFILE+VIEWS&color=58A6FF&style=flat-square" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-✨ Passionate developer from India who loves building modern digital experiences and leading tech communities.  
+I’m a **Frontend Developer** who loves building clean, modern, and interactive web experiences.
 
-💡 I enjoy turning ideas into real projects while continuously learning new technologies and improving my skills.
+I focus on turning ideas into real, usable products using React and Next.js, with strong attention to UI, performance, and usability.
 
-### 🔹 Currently Exploring
-- Full Stack Development
-- Artificial Intelligence
-- Cloud Technologies
-- UI/UX & Creative Development
-
-### 🔹 Leadership Experience
-- 👑 President — Coders Club
-- ⚡ Vice President — Coders Club
-- 🎯 Mentor — Student Tech Community
-- 💡 Founder & Organizer — I-Code
+I also enjoy working with tech communities and taking leadership roles in organizing events and mentoring students.
 
 ---
 
-# 🛠 Tech Stack
+## 🎯 What I Do
 
-<div align="center">
+- ⚛️ Frontend Development (React, Next.js)
+- 🎨 UI/UX focused web design
+- 📱 Responsive and mobile-first interfaces
+- ⚡ Performance optimization
+- 🧩 Component-based architecture
+- 🤝 Tech community leadership
+
+---
+
+## 🛠 Tech Stack
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,cpp" />
+</p>
 
-### 🚀 Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,firebase,git,github,vscode,figma" />
+### 🚀 Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,firebase" />
+</p>
 
-### ☁️ Cloud & Platforms
-<img src="https://skillicons.dev/icons?i=gcp,vercel" />
-
-</div>
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+</p>
 
 ---
 
-# 📊 GitHub Analytics
+## 🏆 Experience
+
+- 👑 President — Coders Club  
+- ⚡ Vice President — Coders Club  
+- 🎯 Mentor — Student Developer Community  
+- 💡 Founder — I-Code (Coding Initiative)  
+- 🚀 Organizer — Tech Events & Workshops  
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamparrish&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=iamparrish&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamparrish&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamparrish&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamparrish&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+<br/><br/>
 
-</div>
-
----
-
-# 🏆 Achievements & Contributions
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iamparrish&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamparrish&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -97,46 +106,29 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/parrish-tarak-6793b6312/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
-
-<a href="https://github.com/iamparrish">
-  <img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
-
-<a href="https://x.com/ParrishTarak">
-  <img src="https://skillicons.dev/icons?i=twitter" height="55"/>
-</a>
-
-<a href="https://www.facebook.com/iamparrish/">
-  <img src="https://skillicons.dev/icons?i=facebook" height="55"/>
-</a>
-
-<a href="https://www.threads.com/@iamparrish_7">
-  <img src="https://img.icons8.com/fluency/48/threads.png" height="55"/>
-</a>
-
-</div>
-
----
-
-# 💭 Quote
-
-<div align="center">
-
-### *"Build. Learn. Lead. Repeat."*
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/parrish-tarak-6793b6312/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/iamparrish">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://x.com/ParrishTarak">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/iamparrish_7/">
+    <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### “Build things that speak for you.”
+
+⭐ Thanks for visiting my profile!
 
 </div>
