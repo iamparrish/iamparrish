@@ -1,50 +1,142 @@
-# 👋 Hello! I'm Parrish Tarak
+<div align="center">
 
-> 12th-grade tech enthusiast, web developer, and Ex-President of the Coders Club at Krishna Public School, Raipur.
+# ✨ Parrish Tarak
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=Full+Stack+Developer;Tech+Community+Leader;Building+Creative+Digital+Experiences;Passionate+About+Technology+%26+Innovation" />
 
-### 🚀 About Me
-🌟 Passionate about tech and coding, I love turning creative ideas into interactive experiences.  
-🎨 From web dev to graphic design, I'm always exploring new ways to build and innovate.  
+<p align="center">
+  <a href="https://parrishtarak.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 
----
+  <a href="https://github.com/iamparrish">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-### 🛠️ Skills & Tools
-**Languages:**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+  <a href="https://www.linkedin.com/in/parrish-tarak-6793b6312/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-**Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+<img src="https://komarev.com/ghpvc/?username=iamparrish&label=Profile+Views&color=58A6FF&style=flat-square" />
 
-**Design & Editing Tools:**
-<br>
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) ![Clipchamp](https://img.shields.io/badge/Clipchamp-512DA8?style=flat-square&logo=clipchamp&logoColor=white) ![Adobe Express](https://img.shields.io/badge/Adobe%20Express-FF0000?style=flat-square&logo=adobe&logoColor=white)
+</div>
 
 ---
 
-### 🌱 Currently Learning
-- Fundamental coding concepts and enhancing overall skills  
-- Exploring designing skill for better creativity experiences  
-- Diving into game development and interactive media
+# 🚀 About Me
+
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+✨ Passionate developer from India who loves building modern digital experiences and leading tech communities.  
+
+💡 I enjoy turning ideas into real projects while continuously learning new technologies and improving my skills.
+
+### 🔹 Currently Exploring
+- Full Stack Development
+- Artificial Intelligence
+- Cloud Technologies
+- UI/UX & Creative Development
+
+### 🔹 Leadership Experience
+- 👑 President — Coders Club
+- ⚡ Vice President — Coders Club
+- 🎯 Mentor — Student Tech Community
+- 💡 Founder & Organizer — I-Code
 
 ---
 
-### 🧩 Projects & Contributions
-💻 **Coders Club Projects:** Organized tech events like **Xplora 4.0** and **I-Code** to inspire creativity and collaboration in tech.  
-🌐 **Personal Projects:** Developing websites, small games, and interactive apps.
+# 🛠 Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css" />
+
+### 🚀 Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,firebase,git,github,vscode,figma" />
+
+### ☁️ Cloud & Platforms
+<img src="https://skillicons.dev/icons?i=gcp,vercel" />
+
+</div>
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([www.linkedin.com/in/parrish-tarak-6793b6312](www.linkedin.com/in/parrish-tarak-6793b6312))  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/iamparrish_7/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](coder.parrish@gamil.com)
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamparrish&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamparrish&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamparrish&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
 
 ---
 
-Thanks for stopping by! 😊 Let's create something awesome together!
+# 🏆 Achievements & Contributions
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=iamparrish&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/parrish-tarak-6793b6312/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="https://github.com/iamparrish">
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<a href="https://x.com/ParrishTarak">
+  <img src="https://skillicons.dev/icons?i=twitter" height="55"/>
+</a>
+
+<a href="https://www.facebook.com/iamparrish/">
+  <img src="https://skillicons.dev/icons?i=facebook" height="55"/>
+</a>
+
+<a href="https://www.threads.com/@iamparrish_7">
+  <img src="https://img.icons8.com/fluency/48/threads.png" height="55"/>
+</a>
+
+</div>
+
+---
+
+# 💭 Quote
+
+<div align="center">
+
+### *"Build. Learn. Lead. Repeat."*
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
