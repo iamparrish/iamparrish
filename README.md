@@ -111,27 +111,26 @@ I also enjoy working with tech communities and taking leadership roles in organi
 <p align="center">
 
 <a href="https://www.linkedin.com/in/parrish-tarak-6793b6312/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="https://github.com/iamparrish">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
 <a href="https://x.com/ParrishTarak">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
 </a>
 
 <a href="https://www.instagram.com/iamparrish_7/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 
 <a href="https://parrishtarak.vercel.app/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="45"/>
 </a>
 
 </p>
----
 
 <div align="center">
 
