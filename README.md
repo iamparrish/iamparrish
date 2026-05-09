@@ -42,60 +42,100 @@
 
 ## 👨‍💻 About Me
 
+<div align="center">
+
+### *"Building modern digital experiences with code, design, and emerging technology."*
+
+<br/>
+
+I'm **Parrish Tarak** — a passionate **Creative Developer** and **UI/UX Explorer** from India 🇮🇳, with a deep curiosity for **AI**, **Product Design**, and anything that sits at the intersection of technology and creativity. I don't just write code — I craft experiences.
+
+<br/>
+
+<!-- ── INFO CARDS ROW ── -->
 <table>
 <tr>
-<td valign="top" width="55%">
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📍-Raipur%2C%20India-7c3aed?style=for-the-badge&labelColor=1a1a2e"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎯-AI%20%2B%20Product%20UI-c084fc?style=for-the-badge&labelColor=1a1a2e"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🏆-4%2B%20Leadership%20Roles-a78bfa?style=for-the-badge&labelColor=1a1a2e"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/✅-Open%20To%20Work-00c853?style=for-the-badge&labelColor=1a1a2e"/>
+</td>
+</tr>
+</table>
 
-```yaml
-╔─────────────────────────────────╗
-│        PARRISH TARAK            │
-╠─────────────────────────────────╣
-│  Role     : Creative Developer  │
-│             & UI/UX Explorer    │
-│  Location : India 🇮🇳           │
-│  Web      : parrishtarak.vercel │
-│  Focus    : AI + Product UI     │
-│  Status   : Open to Work 🚀     │
-╠─────────────────────────────────╣
-│  Strengths:                     │
-│  ▸ Frontend Web Development     │
-│  ▸ UI/UX Design & Exploration   │
-│  ▸ Python & Automation          │
-│  ▸ Android App Dev (MIT)        │
-│  ▸ Creative Problem Solving     │
-│  ▸ Leadership (4+ Roles)        │
-╠─────────────────────────────────╣
-│  Currently:                     │
-│  ▸ Building modern digital UIs  │
-│  ▸ Exploring AI-driven products │
-│  ▸ Open to freelance & collab   │
-╚─────────────────────────────────╝
-```
+<br/>
+
+<!-- ── STRENGTHS GRID ── -->
+<table>
+<tr>
+<td align="center" width="33%">
+
+🌐 **Frontend Development**
+<br/>
+<sub>Crafting responsive, pixel-perfect<br/>and visually stunning websites</sub>
 
 </td>
-<td valign="top" width="45%" align="center">
+<td align="center" width="33%">
 
+🎨 **UI/UX Design**
 <br/>
+<sub>Building seamless user journeys<br/>with clean, intuitive interfaces</sub>
 
-### 🌟 Quick Snapshot
+</td>
+<td align="center" width="33%">
 
+🤖 **AI & Automation**
 <br/>
+<sub>Exploring AI-driven Product UIs<br/>& automating workflows with Python</sub>
 
-![Tech+Design](https://img.shields.io/badge/Tech%20%2B%20Design-Hybrid-7c3aed?style=for-the-badge&labelColor=1a1a2e)
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
 
-![Leadership](https://img.shields.io/badge/Leadership%20Roles-4%2B-c084fc?style=for-the-badge&labelColor=1a1a2e)
-
-![Focus](https://img.shields.io/badge/Focus-AI%20%2B%20Product%20UI-a78bfa?style=for-the-badge&labelColor=1a1a2e)
-
-![Status](https://img.shields.io/badge/Status-Open%20To%20Work-00c853?style=for-the-badge&labelColor=1a1a2e)
-
-![Portfolio](https://img.shields.io/badge/Portfolio-Live%20%F0%9F%9F%A2-FF5733?style=for-the-badge&labelColor=1a1a2e)
-
+📱 **Android Development**
 <br/>
+<sub>Shipping functional Android apps<br/>using MIT App Inventor</sub>
+
+</td>
+<td align="center" width="33%">
+
+🧩 **Problem Solving**
+<br/>
+<sub>Breaking complex challenges<br/>into elegant, practical solutions</sub>
+
+</td>
+<td align="center" width="33%">
+
+🏆 **Leadership**
+<br/>
+<sub>4+ roles across tech communities,<br/>events & creative initiatives</sub>
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<!-- ── CURRENTLY ── -->
+```
+ 🔭  Deepening expertise in AI-driven Product UI design
+ 🌱  Learning advanced JavaScript & modern frameworks
+ 👯  Open to collaborations on open-source & creative builds
+ 💬  Ask me  →  Frontend · UI/UX · Python · Android Dev
+ 📫  Reach   →  parrishtarak.vercel.app/contact.html
+ ⚡  Fun Fact →  I blend design thinking with engineering —
+                 building things that LOOK good AND FEEL good
+```
+
+</div>
 
 ---
 
@@ -347,18 +387,6 @@
 </div>
 
 ---
-
-## 🎯 Currently Working On
-
-```
-  🔭  Deepening expertise in AI-driven Product UI design
-  🌱  Learning advanced JavaScript & modern frameworks  
-  👯  Open to collaborations on open-source & creative builds
-  💬  Ask me  →  Frontend · UI/UX · Python · Android Dev
-  📫  Reach   →  parrishtarak.vercel.app/contact.html
-  ⚡  Fun Fact →  I blend design thinking with engineering —
-                  building things that LOOK good AND FEEL good
-```
 
 ---
 
