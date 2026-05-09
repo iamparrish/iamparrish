@@ -1,23 +1,25 @@
 <!-- ============================= -->
-<!--         PARRISH TARAK        -->
+<!--   PARRISH TARAK | CYBER MODE -->
 <!-- ============================= -->
 
 <div align="center">
 
-# Parrish Tarak
+# 𝙋𝙖𝙧𝙧𝙞𝙨𝙝 𝙏𝙖𝙧𝙖𝙠
 
-### Full Stack Developer • Tech Community Leader • Builder of Digital Experiences
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;UI%2FUX+Focused+Builder;Tech+Community+Leader;Turning+Ideas+Into+Real+Products" />
 
 <br/>
 
+<!-- SOCIAL BADGES -->
+
 <a href="https://parrishtarak.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/parrish-tarak-6793b6312/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/iamparrish">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/iamparrish_7/">
   <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -28,42 +30,125 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=iamparrish&label=PROFILE%20VIEWS&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=iamparrish&label=PROFILE+VIEWS&color=00F5FF&style=flat-square" />
 
 </div>
 
 ---
 
-## About Me
+## 🧠 ABOUT ME
 
-I’m a passionate developer from India who enjoys building modern, clean, and user-focused web applications.  
-I like turning ideas into real-world projects that are simple, fast, and meaningful.
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-My focus is on writing clean code, improving UI/UX, and building scalable applications while also growing as a tech leader through community work and collaboration.
+I’m **Parrish Tarak**, a passionate full stack developer focused on building clean, modern, and user-friendly web applications.
 
----
+I enjoy turning ideas into real products with a strong focus on **UI, performance, and user experience**.
 
-## What I Do
-
-- Full Stack Web Development (Frontend + Backend)
-- Building responsive and modern UI/UX interfaces
-- Leading and managing tech communities
-- Organizing coding events, workshops, and competitions
-- Exploring system design and scalable architectures
-- Learning and experimenting with AI + Web integrations
+### 💡 Core Focus
+- Full Stack Web Development  
+- UI/UX Driven Product Design  
+- Scalable Web Applications  
+- Tech Community Leadership  
 
 ---
 
-## Leadership & Experience
+## 🧩 EXPERIENCE
 
-- President — Coders Club  
-- Vice President — Coders Club  
-- Mentor — Student Developer Community  
-- Founder — I-Code (Coding Initiative & Competition)  
-- Event Organizer — Technical Workshops & Hackathons  
+- 👑 President — Coders Club  
+- ⚡ Vice President — Coders Club  
+- 🎯 Mentor — Student Developer Community  
+- 💡 Founder — I-Code Initiative  
+- 🚀 Organizer — Coding Events & Workshops  
 
 ---
 
-## Tech Stack
+## ⚙️ TECH STACK
 
-### Languages
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css" />
+</p>
+
+### 🚀 Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" />
+</p>
+
+### ☁️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,firebase,vercel,figma,vscode" />
+</p>
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=iamparrish&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamparrish&theme=tokyonight&hide_border=true" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamparrish&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 ACTIVITY GRAPH
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamparrish&theme=react-dark&hide_border=true" />
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+---
+
+## 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/parrish-tarak-6793b6312/">
+  <img src="https://img.icons8.com/fluency/48/linkedin.png" />
+</a>
+
+<a href="https://github.com/iamparrish">
+  <img src="https://img.icons8.com/fluency/48/github.png" />
+</a>
+
+<a href="https://www.instagram.com/iamparrish_7/">
+  <img src="https://img.icons8.com/fluency/48/instagram-new.png" />
+</a>
+
+<a href="https://x.com/ParrishTarak">
+  <img src="https://img.icons8.com/fluency/48/twitter.png" />
+</a>
+
+<a href="https://parrishtarak.vercel.app/">
+  <img src="https://img.icons8.com/fluency/48/domain.png" />
+</a>
+
+</div>
+
+---
+
+## ⚡ QUOTE
+
+<div align="center">
+
+> “Build with purpose. Design with clarity. Deliver with impact.”
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile
+
+</div>
