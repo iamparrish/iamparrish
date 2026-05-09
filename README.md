@@ -109,20 +109,28 @@ I also enjoy working with tech communities and taking leadership roles in organi
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/parrish-tarak-6793b6312/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/iamparrish">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://x.com/ParrishTarak">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/iamparrish_7/">
-    <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
-</p>
 
+<a href="https://www.linkedin.com/in/parrish-tarak-6793b6312/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"/>
+</a>
+
+<a href="https://github.com/iamparrish">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+</a>
+
+<a href="https://x.com/ParrishTarak">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="45"/>
+</a>
+
+<a href="https://www.instagram.com/iamparrish_7/">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="45"/>
+</a>
+
+<a href="https://parrishtarak.vercel.app/">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" height="45"/>
+</a>
+
+</p>
 ---
 
 <div align="center">
