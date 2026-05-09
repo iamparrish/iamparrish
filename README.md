@@ -1,58 +1,61 @@
 <div align="center">
 
-# 👋 Hey, I'm Parrish Tarak
+# ⚡ Parrish Tarak
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Tech+Community+Leader;UI%2FUX+Enthusiast;Building+Impactful+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Tech+Community+Leader;UI%2FUX+Focused+Builder;Turning+Ideas+Into+Reality" />
 
 ---
 
-🌐 **Portfolio**: https://parrishtarak.vercel.app/  
-💻 **GitHub**: https://github.com/iamparrish  
-🔗 **LinkedIn**: https://www.linkedin.com/in/parrish-tarak-6793b6312/
+### 🌐 Portfolio • 💼 LinkedIn • 💻 GitHub
 
-<img src="https://komarev.com/ghpvc/?username=iamparrish&label=Profile+Views&color=58A6FF&style=flat-square" />
+<a href="https://parrishtarak.vercel.app/">Portfolio</a> • 
+<a href="https://www.linkedin.com/in/parrish-tarak-6793b6312/">LinkedIn</a> • 
+<a href="https://github.com/iamparrish">GitHub</a>
+
+<img src="https://komarev.com/ghpvc/?username=iamparrish&label=PROFILE+VIEWS&color=00F5FF&style=flat-square" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I’m a passionate developer from India who enjoys building clean, modern, and meaningful digital experiences.
+I’m **Parrish Tarak**, a passionate developer and tech enthusiast who enjoys building clean, fast, and meaningful digital products.
 
-I like turning ideas into real-world projects and working with communities that grow in tech together.
+I don’t just write code — I focus on **how users experience it, how it performs, and how it solves real problems.**
 
-- 💡 Focused on Full Stack Development & Product Thinking  
-- ⚡ Love building UI-rich and interactive web apps  
-- 🎯 Community leader & tech event organizer  
-- 🤝 Enjoy mentoring and collaborating with students  
+- 🚀 Full Stack Developer (Frontend + Backend)
+- 🎯 Focused on product thinking & UI/UX quality
+- 👨‍💻 Tech Community Leader & Event Organizer
+- 🧩 Love building projects that actually get used
+- ⚡ Always exploring AI, Web & Cloud technologies
 
 ---
 
-## 🧠 Experience & Leadership
+## 🏆 Leadership Journey
 
 - 👑 President — Coders Club  
 - ⚡ Vice President — Coders Club  
-- 🎯 Mentor — Student Developers Community  
+- 🎯 Mentor — Student Developer Community  
 - 💡 Founder — I-Code (Coding Initiative / Competition)  
-- 🧩 Organizer — Tech Events & Workshops  
+- 🤝 Organizer — Tech Events, Workshops & Hackathons  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Arsenal
 
-### Languages
-`C++` `JavaScript` `Python` `HTML` `CSS`
+### 💻 Languages
+`C++` • `JavaScript` • `Python` • `HTML` • `CSS`
 
-### Frameworks & Tools
-`React` `Next.js` `Node.js` `TailwindCSS` `Firebase`
+### ⚙️ Frameworks
+`React` • `Next.js` • `Node.js` • `Tailwind CSS`
 
-### Tools & Platforms
-`Git` `GitHub` `VS Code` `Figma` `Vercel` `Google Cloud`
+### ☁️ Tools & Platforms
+`Git` • `GitHub` • `Firebase` • `Vercel` • `Figma` • `VS Code`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance
 
 <div align="center">
 
@@ -64,54 +67,54 @@ I like turning ideas into real-world projects and working with communities that 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamparrish&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamparrish&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 Highlights
+## 🔥 What Makes Me Different
 
-- Built and managed multiple student tech initiatives  
-- Led coding competitions & workshops (I-Code)  
-- Strong focus on leadership + technical growth balance  
-- Experience in team coordination & community building  
+- I build **clean UI + real functionality**, not just projects  
+- I focus on **scalability + user experience together**  
+- I love leading teams and turning ideas into execution  
+- I learn fast, adapt faster, and build consistently  
 
 ---
 
-## 🌍 Connect With Me
+## 🌍 Let’s Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/parrish-tarak-6793b6312/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/iamparrish">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://x.com/ParrishTarak">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
 <a href="https://www.facebook.com/iamparrish/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 <a href="https://www.threads.com/@iamparrish_7">
-  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
+<img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 💭 Quote
+## 💭 Final Thought
 
 <div align="center">
 
-> “Consistency beats talent when talent doesn’t stay consistent.”
+> “Great developers don’t just build code — they build experiences.”
 
 </div>
 
@@ -119,6 +122,6 @@ I like turning ideas into real-world projects and working with communities that 
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+⭐ If you like my work, consider following me on GitHub!
 
 </div>
