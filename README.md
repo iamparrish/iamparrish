@@ -1,87 +1,81 @@
-<!-- ============================= -->
-<!--   PARRISH TARAK | CYBER MODE -->
-<!-- ============================= -->
-
 <div align="center">
 
 # 𝙋𝙖𝙧𝙧𝙞𝙨𝙝 𝙏𝙖𝙧𝙖𝙠
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;UI%2FUX+Focused+Builder;Tech+Community+Leader;Turning+Ideas+Into+Real+Products" />
+### Frontend Developer • UI Engineer • Web Experience Builder
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+%2B+Next.js+Developer;Crafting+Modern+Web+Interfaces;Focused+on+UI%2FUX+%26+Performance" />
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-
 <a href="https://parrishtarak.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/parrish-tarak-6793b6312/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/iamparrish">
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/iamparrish_7/">
-  <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://x.com/ParrishTarak">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=iamparrish&label=PROFILE+VIEWS&color=00F5FF&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=iamparrish&label=PROFILE%20VIEWS&color=00F5FF&style=flat-square" />
 
 </div>
 
 ---
 
-## 🧠 ABOUT ME
+## 🧠 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+I’m a **Frontend Developer** focused on building clean, modern, and responsive web interfaces.
 
-I’m **Parrish Tarak**, a passionate full stack developer focused on building clean, modern, and user-friendly web applications.
+I enjoy transforming ideas into real digital experiences with strong attention to **UI, performance, and usability**.  
+My focus is to build interfaces that feel smooth, intuitive, and visually refined.
 
-I enjoy turning ideas into real products with a strong focus on **UI, performance, and user experience**.
-
-### 💡 Core Focus
-- Full Stack Web Development  
-- UI/UX Driven Product Design  
-- Scalable Web Applications  
-- Tech Community Leadership  
+Along with development, I actively participate in tech communities and leadership roles, organizing and contributing to technical initiatives.
 
 ---
 
-## 🧩 EXPERIENCE
+## 🎯 What I Do
+
+- Frontend Development (React / Next.js)
+- UI/UX-focused web design
+- Responsive and mobile-first development
+- Performance optimization
+- Component-based architecture
+- Tech community leadership & event organization
+
+---
+
+## ⚙️ Tech Stack
+
+Frontend:
+
+
+Styling:
+
+Tools:
+
+---
+
+## 💼 Experience
 
 - 👑 President — Coders Club  
 - ⚡ Vice President — Coders Club  
 - 🎯 Mentor — Student Developer Community  
-- 💡 Founder — I-Code Initiative  
-- 🚀 Organizer — Coding Events & Workshops  
+- 💡 Founder — I-Code (Coding Initiative)  
+- 🚀 Organizer — Tech Events & Workshops  
 
 ---
 
-## ⚙️ TECH STACK
-
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css" />
-</p>
-
-### 🚀 Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" />
-</p>
-
-### ☁️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,firebase,vercel,figma,vscode" />
-</p>
-
----
-
-## 📊 GITHUB ANALYTICS
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -91,64 +85,30 @@ I enjoy turning ideas into real products with a strong focus on **UI, performanc
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamparrish&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamparrish&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 ACTIVITY GRAPH
+## 🌐 Connect With Me
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamparrish&theme=react-dark&hide_border=true" />
-
----
-
-## 🐍 CONTRIBUTION SNAKE
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+- 🌍 Portfolio: https://parrishtarak.vercel.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/parrish-tarak-6793b6312/  
+- 💻 GitHub: https://github.com/iamparrish  
+- 📸 Instagram: https://www.instagram.com/iamparrish_7  
+- 🐦 X (Twitter): https://x.com/ParrishTarak  
 
 ---
 
-## 🌐 CONNECT WITH ME
+## 🧭 Philosophy
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/parrish-tarak-6793b6312/">
-  <img src="https://img.icons8.com/fluency/48/linkedin.png" />
-</a>
-
-<a href="https://github.com/iamparrish">
-  <img src="https://img.icons8.com/fluency/48/github.png" />
-</a>
-
-<a href="https://www.instagram.com/iamparrish_7/">
-  <img src="https://img.icons8.com/fluency/48/instagram-new.png" />
-</a>
-
-<a href="https://x.com/ParrishTarak">
-  <img src="https://img.icons8.com/fluency/48/twitter.png" />
-</a>
-
-<a href="https://parrishtarak.vercel.app/">
-  <img src="https://img.icons8.com/fluency/48/domain.png" />
-</a>
-
-</div>
-
----
-
-## ⚡ QUOTE
-
-<div align="center">
-
-> “Build with purpose. Design with clarity. Deliver with impact.”
-
-</div>
+> “Great UI is not seen — it is felt.”
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile
+⭐ Built with consistency, curiosity, and frontend precision
 
 </div>
