@@ -38,8 +38,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
 ## 👨‍💻 About Me
 
 <div align="center">
@@ -137,11 +135,8 @@ I'm **Parrish Tarak** — a passionate **Creative Developer** and **UI/UX Explor
 
 </div>
 
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
 
 ## 🛠️ Tech Arsenal
 
@@ -202,11 +197,7 @@ I'm **Parrish Tarak** — a passionate **Creative Developer** and **UI/UX Explor
 
 </div>
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
 
 ## 🚀 Featured Projects
 
@@ -302,11 +293,7 @@ I'm **Parrish Tarak** — a passionate **Creative Developer** and **UI/UX Explor
 
 </div>
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
 
 ## 📊 GitHub Statistics
 
@@ -321,18 +308,6 @@ I'm **Parrish Tarak** — a passionate **Creative Developer** and **UI/UX Explor
 
 </div>
 
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iamparrish&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -341,11 +316,7 @@ I'm **Parrish Tarak** — a passionate **Creative Developer** and **UI/UX Explor
 
 </div>
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
 
 ## 💡 What I Bring to the Table
 
@@ -386,13 +357,7 @@ I'm **Parrish Tarak** — a passionate **Creative Developer** and **UI/UX Explor
 
 </div>
 
----
-
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
 
 ## 📬 Let's Connect & Collaborate
 
