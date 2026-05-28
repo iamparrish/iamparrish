@@ -299,20 +299,46 @@ I'm **Parrish Tarak** — a passionate **Creative Developer** and **UI/UX Explor
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamparrish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=c084fc&icon_color=a78bfa&text_color=e2e8f0&bg_color=0d1117&border_radius=12" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamparrish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=c084fc&icon_color=a78bfa&text_color=e2e8f0&bg_color=0d1117&border_radius=12&include_all_commits=true" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamparrish&layout=donut&theme=tokyonight&hide_border=true&title_color=c084fc&text_color=e2e8f0&bg_color=0d1117&border_radius=12" />
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamparrish&theme=tokyonight&hide_border=true&background=0D1117&stroke=7c3aed&ring=c084fc&fire=ff6b6b&currStreakLabel=c084fc&dates=94a3b8&currStreakNum=e2e8f0&sideLabels=a78bfa&sideNums=e2e8f0&border_radius=12" />
+<!-- ✅ FIXED: Using streak-stats.demolab.com (herokuapp is deprecated) -->
+<img width="70%" src="https://streak-stats.demolab.com?user=iamparrish&theme=tokyonight&hide_border=true&background=0D1117&stroke=7c3aed&ring=c084fc&fire=ff6b6b&currStreakLabel=c084fc&dates=94a3b8&currStreakNum=e2e8f0&sideLabels=a78bfa&sideNums=e2e8f0&border_radius=12" />
 
 </div>
 
-## 📈 Contribution Graph
+<br/>
+
+## 📈 Contribution Graph — Full History
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamparrish&bg_color=0d1117&color=c084fc&line=7c3aed&point=d8b4fe&area_color=3b1f8c&area=true&hide_border=true&radius=8&custom_title=Parrish%27s%20Contribution%20Activity" />
+<!-- ✅ FIX 1: added &from=2023-01-01 to show ALL contributions from account start -->
+<!-- 🔁 Change 2023-01-01 to your actual GitHub join date for complete history -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamparrish&bg_color=0d1117&color=c084fc&line=7c3aed&point=d8b4fe&area_color=3b1f8c&area=true&hide_border=true&radius=8&custom_title=Parrish%27s%20Contribution%20Activity%20%E2%80%94%20Full%20History&from=2023-01-01&to=2026-12-31" />
+
+</div>
+
+<br/>
+
+## 🗓️ Contribution Summary Cards
+
+<div align="center">
+
+<!-- ✅ FIX 2: github-profile-summary-cards shows per-year stats — covers ALL years -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamparrish&theme=tokyonight" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamparrish&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamparrish&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamparrish&theme=tokyonight" width="32%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamparrish&theme=tokyonight&utcOffset=5.5" width="49%"/>
 
 </div>
 
