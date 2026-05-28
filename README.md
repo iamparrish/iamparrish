@@ -299,12 +299,24 @@ I'm **Parrish Tarak** — a passionate **Creative Developer** and **UI/UX Explor
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamparrish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=c084fc&icon_color=a78bfa&text_color=e2e8f0&bg_color=0d1117&border_radius=12&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamparrish&layout=donut&theme=tokyonight&hide_border=true&title_color=c084fc&text_color=e2e8f0&bg_color=0d1117&border_radius=12" />
+<!-- ✅ Row 1: Stats + Top Languages via github-profile-summary-cards (reliable, no rate limits) -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamparrish&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamparrish&theme=tokyonight" />
 
 <br/><br/>
 
-<!-- ✅ FIXED: Using streak-stats.demolab.com (herokuapp is deprecated) -->
+<!-- ✅ Row 2: Most commit language + Productive time -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamparrish&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamparrish&theme=tokyonight&utcOffset=5.5" />
+
+<br/><br/>
+
+<!-- ✅ Row 3: Full profile details bar (all-time contributions timeline) -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamparrish&theme=tokyonight" />
+
+<br/><br/>
+
+<!-- ✅ Streak stats — demolab (working, replaces deprecated herokuapp) -->
 <img width="70%" src="https://streak-stats.demolab.com?user=iamparrish&theme=tokyonight&hide_border=true&background=0D1117&stroke=7c3aed&ring=c084fc&fire=ff6b6b&currStreakLabel=c084fc&dates=94a3b8&currStreakNum=e2e8f0&sideLabels=a78bfa&sideNums=e2e8f0&border_radius=12" />
 
 </div>
@@ -321,26 +333,7 @@ I'm **Parrish Tarak** — a passionate **Creative Developer** and **UI/UX Explor
 
 </div>
 
-<br/>
 
-## 🗓️ Contribution Summary Cards
-
-<div align="center">
-
-<!-- ✅ FIX 2: github-profile-summary-cards shows per-year stats — covers ALL years -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamparrish&theme=tokyonight" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamparrish&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamparrish&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamparrish&theme=tokyonight" width="32%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamparrish&theme=tokyonight&utcOffset=5.5" width="49%"/>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
