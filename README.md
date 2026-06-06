@@ -235,6 +235,11 @@ I'm **Parrish Tarak** — a passionate **Creative Developer** and **UI/UX Explor
 <td><a href="https://iamparrish.github.io/Dash-Car-Game/"><img src="https://img.shields.io/badge/Play-28a745?style=flat-square&logo=googlechrome&logoColor=white"/></a></td>
 <td><a href="https://github.com/iamparrish/Dash-Car-Game"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
 </tr>
+<td><b>🧊 3x3-Rubiks-Cube</b></td>
+<td>Classic 3D Rubik's Cube puzzle game</td>
+<td><a href="https://iamparrish.github.io/3x3-Rubiks-Cube/"><img src="https://img.shields.io/badge/Play-28a745?style=flat-square&logo=googlechrome&logoColor=white"/></a></td>
+<td><a href="https://github.com/iamparrish/3x3-Rubiks-Cube"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+</tr>
 </table>
 
 </div>
