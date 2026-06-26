@@ -240,6 +240,12 @@ I'm **Parrish Tarak** — a passionate **Creative Developer** and **UI/UX Explor
 <td><a href="https://iamparrish.github.io/3x3-Rubiks-Cube/"><img src="https://img.shields.io/badge/Play-28a745?style=flat-square&logo=googlechrome&logoColor=white"/></a></td>
 <td><a href="https://github.com/iamparrish/3x3-Rubiks-Cube"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
 </tr>
+<tr>
+<td><b>🦕 Dino Night Runner</b></td>
+<td>Night-themed endless runner — dodge obstacles & survive!</td>
+<td><a href="https://iamparrish.github.io/Dino-Night-Runner/"><img src="https://img.shields.io/badge/Play-28a745?style=flat-square&logo=googlechrome&logoColor=white"/></a></td>
+<td><a href="https://github.com/iamparrish/Dino-Night-Runner"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+</tr>
 </table>
 
 </div>
