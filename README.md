@@ -246,6 +246,12 @@ I'm **Parrish Tarak** — a passionate **Creative Developer** and **UI/UX Explor
 <td><a href="https://iamparrish.github.io/Dino-Night-Runner/"><img src="https://img.shields.io/badge/Play-28a745?style=flat-square&logo=googlechrome&logoColor=white"/></a></td>
 <td><a href="https://github.com/iamparrish/Dino-Night-Runner"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
 </tr>
+<tr>
+<td><b>🐦 Golden Wing Flat</b></td>
+<td>Flappy Bird-inspired arcade game — fly through obstacles & beat your high score!</td>
+<td><a href="https://iamparrish.github.io/Golden-Wing-Flat/"><img src="https://img.shields.io/badge/Play-28a745?style=flat-square&logo=googlechrome&logoColor=white"/></a></td>
+<td><a href="https://github.com/iamparrish/Golden-Wing-Flat"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+</tr>
 </table>
 
 </div>
