@@ -46,7 +46,7 @@
 
 <br/>
 
-I'm **Parrish Tarak** — a passionate **Creative Developer** and **UI/UX Explorer** from India 🇮🇳, with a deep curiosity for **AI**, **Product Design**, and anything that sits at the intersection of technology and creativity. I don't just write code — I craft experiences.
+I'm Parrish Tarak, a passionate Creative Developer and UI/UX Explorer from India 🇮🇳 with a deep curiosity for AI, product design, and everything at the intersection of technology and creativity. I love transforming ideas into meaningful digital experiences through thoughtful design and clean, efficient code. My goal is not just to build applications but to create experiences that are intuitive, engaging, and memorable.
 
 <br/>
 
