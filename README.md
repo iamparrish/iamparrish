@@ -439,8 +439,8 @@ I'm Parrish Tarak, a passionate Creative Developer and UI/UX Explorer from India
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0533,75:3b1f8c,100:0d0d0d&height=140&section=footer&animation=fadeIn" />
 
 <sub>
-<b>💜 Thanks for visiting!</b> &nbsp;•&nbsp;
-If you found value here, please <b>⭐ star</b> my repositories — it truly means a lot!
+<b>💜 Thanks for stopping by!</b> &nbsp;•&nbsp;
+If you enjoyed this project, consider <b>⭐ starring my repositories</b>. Your support is greatly appreciated!
 </sub>
 
 <br/><br/>
