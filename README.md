@@ -334,7 +334,7 @@ I'm Parrish Tarak, a passionate Creative Developer and UI/UX Explorer from India
 <br/><br/>
 
 <!-- ✅ Streak stats — demolab (working, replaces deprecated herokuapp) -->
-<img width="70%" src="https://streak-stats.demolab.com?user=iamparrish&theme=tokyonight&hide_border=true&background=0D1117&stroke=7c3aed&ring=c084fc&fire=ff6b6b&currStreakLabel=c084fc&dates=94a3b8&currStreakNum=e2e8f0&sideLabels=a78bfa&sideNums=e2e8f0&border_radius=12" />
+<img width="70%" src="https://streak-stats.demolab.com?user=iamparrish&theme=tokyonight&hide_border=true&background=0D1117&stroke=7c3aed&ring=c084fc&fire=ff6b6b&currStreakLabel=c084fc&dates=94a3b8&currStreakNum=e2e8f0&sideLabels=a78bfa&sideNums=e2e8f0&border_radius=12&mode=daily&date_format=M%20j%5B%2C%20Y%5D" />
 
 </div>
 
