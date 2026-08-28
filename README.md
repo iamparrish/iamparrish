@@ -3,13 +3,19 @@
 <!-- ══════════════════════ HERO ══════════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,25:1a0533,55:3b1f8c,100:0d0d0d&height=220&section=header&text=PARRISH%20TARAK&fontSize=54&fontColor=e9d5ff&fontAlignY=42&desc=CREATIVE%20DEVELOPER%20%C2%B7%20UI%2FUX%20DESIGNER%20%C2%B7%20AI%20EXPLORER&descAlignY=58&descSize=15&descColor=a78bfa&fontFamily=Poppins" />
 
+<img width="45" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/wave.gif"/>
+
 <br/>
 
 <a href="https://parrishtarak.vercel.app" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1200&color=C084FC&center=true&vCenter=true&width=650&lines=Building+clean%2C+modern+digital+experiences;Frontend+Development+%C2%B7+UI%2FUX+%C2%B7+Automation;Exploring+AI-driven+Product+Design;Open+to+Work+%E2%80%94+Let%27s+build+something+great" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
+
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:3b1f8c&height=3&section=header"/>
+
+<br/>
 
 <a href="https://www.linkedin.com/in/parrish-tarak-6793b6312/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/iamparrish"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -26,6 +32,10 @@
 </div>
 
 <br/>
+
+<div align="center">
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3b1f8c,100:7c3aed&height=3"/>
+</div>
 
 ## About
 
@@ -54,6 +64,10 @@ I'm **Parrish Tarak**, a Creative Developer and UI/UX Explorer based in Raipur, 
 
 <br/>
 
+<div align="center">
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:3b1f8c&height=3"/>
+</div>
+
 ## Core Strengths
 
 <table>
@@ -67,6 +81,10 @@ I'm **Parrish Tarak**, a Creative Developer and UI/UX Explorer based in Raipur, 
 </table>
 
 <br/>
+
+<div align="center">
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3b1f8c,100:7c3aed&height=3"/>
+</div>
 
 ## Tech Stack
 
@@ -95,6 +113,10 @@ I'm **Parrish Tarak**, a Creative Developer and UI/UX Explorer based in Raipur, 
 </div>
 
 <br/>
+
+<div align="center">
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:3b1f8c&height=3"/>
+</div>
 
 ## Featured Projects
 
@@ -138,6 +160,10 @@ I'm **Parrish Tarak**, a Creative Developer and UI/UX Explorer based in Raipur, 
 
 <br/>
 
+<div align="center">
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3b1f8c,100:7c3aed&height=3"/>
+</div>
+
 ## GitHub Activity
 
 <div align="center">
@@ -151,9 +177,21 @@ I'm **Parrish Tarak**, a Creative Developer and UI/UX Explorer based in Raipur, 
 
 <br/><br/>
 
-**Contribution Heatmap**
+**Contribution Activity**
 
-<img width="100%" src="https://ghchart.rshah.org/7c3aed/iamparrish" alt="iamparrish's Github chart"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamparrish&bg_color=0d1117&color=c084fc&line=7c3aed&point=d8b4fe&area_color=3b1f8c&area=true&hide_border=true&radius=8&custom_title=Contribution+Activity"/>
+
+<br/><br/>
+
+**Contribution Snake** 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamparrish/iamparrish/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamparrish/iamparrish/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/iamparrish/iamparrish/output/github-contribution-grid-snake.svg">
+</picture>
+
+<sub>Live animation — a snake eats through your contribution graph, regenerated daily by GitHub Actions (setup below)</sub>
 
 </div>
 
