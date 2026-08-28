@@ -19,7 +19,7 @@
 <a href="https://github.com/iamparrish" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
 <a href="https://www.instagram.com/iamparrish_7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
 <a href="https://x.com/ParrishTarak" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>&nbsp;
-<a href="https://www.facebook.com/iamparrish/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>&nbsp;
+<a href="https://www.facebook.com/profile.php?id=61554849761270" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>&nbsp;
 <a href="https://www.threads.com/@iamparrish_7" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>&nbsp;
 <a href="https://parrishtarak.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
@@ -449,7 +449,7 @@ If you enjoyed this project, consider <b>⭐ starring my repositories</b>. Your 
 <sub>
 Crafted with ❤️ &amp; lots of ☕ by
 <a href="https://parrishtarak.vercel.app"><b>Parrish Tarak</b></a>
-&nbsp;•&nbsp; © 2025 All Rights Reserved
+&nbsp;•&nbsp; © 2026 All Rights Reserved
 </sub>
 
 </div>
