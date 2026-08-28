@@ -333,8 +333,8 @@ I'm Parrish Tarak, a passionate Creative Developer and UI/UX Explorer from India
 
 <br/><br/>
 
-<!-- Streak stats -->
-<img width="70%" src="https://streak-stats.demolab.com?user=iamparrish&theme=tokyonight&hide_border=true&background=0D1117&stroke=7c3aed&ring=c084fc&fire=ff6b6b&currStreakLabel=c084fc&dates=94a3b8&currStreakNum=e2e8f0&sideLabels=a78bfa&sideNums=e2e8f0&border_radius=12&mode=daily&date_format=M%20j%5B%2C%20Y%5D" />
+<!-- Contribution heatmap — ghchart renders directly from your public profile, no separate API call to fail -->
+<img width="70%" src="https://ghchart.rshah.org/7c3aed/iamparrish" alt="iamparrish's GitHub contribution chart" />
 
 </div>
 
@@ -344,10 +344,8 @@ I'm Parrish Tarak, a passionate Creative Developer and UI/UX Explorer from India
 
 <div align="center">
 
-<!-- Bug fix: the previous version pinned &to=2026-12-31 (a future date), which made the
-     GitHub API call fail with "Failed to retrieve contributions." Leaving "to" unset lets
-     the graph default to the current date instead. -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamparrish&bg_color=0d1117&color=c084fc&line=7c3aed&point=d8b4fe&area_color=3b1f8c&area=true&hide_border=true&radius=8&custom_title=Parrish%27s%20Contribution%20Activity%20%E2%80%94%20Full%20History&from=2023-01-01" />
+<!-- Same heatmap shown larger for full-history view -->
+<img width="100%" src="https://ghchart.rshah.org/c084fc/iamparrish" alt="iamparrish's GitHub contribution chart — full history" />
 
 </div>
 
